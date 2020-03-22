@@ -1,0 +1,5 @@
+name: TeamChat
+version: ${project.version}
+main: strumyk.TeamChat
+api-version: 1.13
+authors: [KrystainWybranowski]
